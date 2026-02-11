@@ -10,7 +10,7 @@ Normalization is an essential preprocessing step that rescales feature values to
 
 ## 📂 Project Structure
 
-.
+
 ├── Normalization.ipynb # Main notebook containing normalization examples
 
 └── README.md # Project documentation
